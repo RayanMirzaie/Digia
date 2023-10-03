@@ -7,13 +7,13 @@ Create digital artwork with this interactive canvas application built using Angu
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:RayanMirzaie/Digia.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd project
+  cd Digia
 ```
 Install all the dependencies
 
