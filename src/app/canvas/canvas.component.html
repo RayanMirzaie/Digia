@@ -1,0 +1,7 @@
+<div class="canvas-container">
+    <canvas #artCanvas width="800" height="600"></canvas>
+    <button (click)="toggleMirror()">Toggle Mirror Drawing</button>
+    <input type="color" [(ngModel)]="color">
+    <input type="range" min="1" max="50" [(ngModel)]="lineWidth" />
+    <button (click)="clearCanvas()">Clear Canvas</button>
+</div>

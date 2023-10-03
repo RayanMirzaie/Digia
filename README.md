@@ -1,6 +1,36 @@
 # Digia
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+Create digital artwork with this interactive canvas application built using Angular. This project offers a simplistic and intuitive interface allowing users to draw on a digital canvas with various tools and settings to enhance creativity. The real-time mirror drawing feature, color picker, and adjustable line thickness ensure a fun and engaging drawing experience. The clean and minimalist design emphasizes user-generated content, making each drawing session unique. Dive into the code to see how Angular’s component-based architecture and data binding capabilities are utilized to build this interactive drawing application.
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd project
+```
+Install all the dependencies
+
+```bash
+  npm install
+```
+
+Start the project using Angular CLI
+
+```bash
+  ng serve
+```
+
+## Note
+Please be informed that this project is currently in its nascent stage and not yet completed. I am in the process of implementing additional functionality over time. As of now, it serves as a showcase to demonstrate my understanding and proficiency in Angular, TypeScript, and the process of honing my general programming skills.
+
+I am fervently working on enhancing this interactive digital art canvas with more features and optimizations to provide a better user experience.
 
 ## Development server
 
